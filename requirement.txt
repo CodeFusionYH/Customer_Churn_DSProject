@@ -1,0 +1,19 @@
+# Core libraries
+numpy==1.21.6
+pandas==1.3.5
+scikit-learn==1.0.2
+
+# Data visualization libraries
+matplotlib==3.5.1
+seaborn==0.11.2
+
+# Jupyter Notebook support
+jupyter==1.0.0
+ipykernel==6.19.2
+
+# Other utilities
+joblib==1.1.1
+xgboost==1.5.2
+
+# For advanced model evaluation (if applicable)
+imbalanced-learn==0.9.1
